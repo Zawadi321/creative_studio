@@ -24,4 +24,4 @@ plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Fi
 
 ## Live URL
 
-[View Live Website](https://your-deployed-url-here.com)
+[View Live Website](https://zawadi321.github.io/creative_studio/)
